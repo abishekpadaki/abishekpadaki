@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to my Github.
+
+A bit about me:
+
+I'm a Full-stack developer with a proven track record of working with cutting-edge front-end technologies such as React, NodeJS, MongoDB, etc. Proven ability to lead and develop projects, engineer CI/CD processes, and incorporate analytics and graph databases for personalized user experiences. I have experience in developing projects such as end-to-end SaaS applications, Malware prediction systems using deep learning techniques and developing Smart Contracts for Supply Chain Applications.
 
 <!--
 **abishekpadaki/abishekpadaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
