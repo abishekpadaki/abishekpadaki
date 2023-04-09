@@ -11,7 +11,7 @@ I am enthusiastic about topics pertaining to the intersection of Human-Computer 
 
 Additionally, I enjoy observing the changes and revolutions made in the blockchain domain, and have also worked on a few projects on the Ethereum blockchain.
 
-### You can check out my portfolio at https://abishekpadaki.github.io/ 
+### You can check out my portfolio at https://padaki.vercel.app/
 
 <!--
 **abishekpadaki/abishekpadaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
